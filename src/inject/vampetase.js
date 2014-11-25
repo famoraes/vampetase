@@ -11,9 +11,7 @@
             'http://www.yaoheng.info/autos/Holland/PSV/Vampeta.jpg',            
             'http://sl5.content.torcedores.com/content/uploads/2014/09/vampeta-615x400.jpg',            
             'http://4.bp.blogspot.com/-8Tp2Bcd6DTE/TguiDKwVi7I/AAAAAAAACZc/hTLf52aB04s/s1600/vampeta.jpg',
-            'http://images.uncyc.org/pt/7/77/Ricardinho_Vampeta_gays.jpg',
-            'http://www.orapois.com.br/arquivos/image/54aecf75cf4f975ddd1149599e41bd71.jpg',
-            'http://4.bp.blogspot.com/_olkaDRCQ6WM/SnumD72rjMI/AAAAAAAAAMs/bWvRe2MKQHA/s400/Vampeta.jpg'
+            'http://images.uncyc.org/pt/7/77/Ricardinho_Vampeta_gays.jpg',            
         ],
         handleImages: function (lstImgs, time) {
             $.each($('img'), function (i, item) {
